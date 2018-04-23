@@ -22,5 +22,5 @@ chmod +x install-apache.sh
 ```
 
 ## Source
-OpenVPN installer script from [Angristan OpenVPN-install](https://github.com/Angristan/OpenVPN-install)
-VestaCP installer script from [VestaCP](https://vestacp.com)
+* OpenVPN installer script from [Angristan OpenVPN-install](https://github.com/Angristan/OpenVPN-install)
+* VestaCP installer script from [VestaCP](https://vestacp.com)
