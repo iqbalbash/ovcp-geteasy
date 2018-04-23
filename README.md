@@ -4,19 +4,19 @@ Accelerate installing OpenVPN along with VestaCP on RHEL/CentOS, Debian, and Ubu
 ## For Use
 Use the following command to install OpenVPN together with VestaCP Nginx + Apache
 ```
-https://raw.githubusercontent.com/iqbalbash/ovcp-geteasy/master/install-nginx-apache.sh
+wget https://raw.githubusercontent.com/iqbalbash/ovcp-geteasy/master/install-nginx-apache.sh
 chmod +x install-nginx-apache.sh
 ./install-nginx-apache.sh
 ```
 Use the following command to install OpenVPN together with VestaCP Nginx + PHP-FPM
 ```
-https://raw.githubusercontent.com/iqbalbash/ovcp-geteasy/master/install-nginx-phpfpm.sh
+wget https://raw.githubusercontent.com/iqbalbash/ovcp-geteasy/master/install-nginx-phpfpm.sh
 chmod +x install-nginx-phpfpm.sh
 ./install-nginx-phpfpm.sh
 ```
 Use the following command to install OpenVPN together with VestaCP Apache
 ```
-https://raw.githubusercontent.com/iqbalbash/ovcp-geteasy/master/install-apache.sh
+wget https://raw.githubusercontent.com/iqbalbash/ovcp-geteasy/master/install-apache.sh
 chmod +x install-apache.sh
 ./install-apache.sh
 ```
