@@ -1,3 +1,5 @@
+#!/bin/bash
+
 # Download installation script
 curl -O http://vestacp.com/pub/vst-install.sh
 

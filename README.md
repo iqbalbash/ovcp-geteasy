@@ -1,5 +1,5 @@
 # OVCP-GetEasy
-Accelerate installing OpenVPN along with VestaCP on Debian, Ubuntu, Fedora, CentOS and Arch Linux servers.
+Accelerate installing OpenVPN along with VestaCP on RHEL/CentOS, Debian, and Ubuntu servers.
 
 ## For Use
 Use the following command to install OpenVPN together with VestaCP Nginx + Apache
